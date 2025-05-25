@@ -42,7 +42,7 @@
 ### 🎯 Latest Projects Sneak Peek
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalbodkhe531&theme=react-dark&area=true" alt="activity graph" />
 </p>
 
 ---
